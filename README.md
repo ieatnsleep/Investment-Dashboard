@@ -4,6 +4,6 @@ Welcome to my Portfolio Dashboard repository. This dashboard showcases my person
 This is non a financial advice.
 
 To view the live dashboard, click the link below:
-https://ieatnsleep.github.io/Tableau_investment_dashboard/
+https://ieatnsleep.github.io/Tableau-Investment-Dashboard/
 
 Contact & Social Links: LinkedIn: https://www.linkedin.com/in/ng-say-khong/ Email: ngsaykhong@gmail.com
